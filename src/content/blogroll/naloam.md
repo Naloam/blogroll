@@ -1,5 +1,5 @@
 ---
 title: naloam
-link: https://naloam.github.io/
-description: Web, IoT, ML, Cybersecurity and Graphics developer.
+link: https://che1sy.netlify.app/
+description: a freshman
 ---
